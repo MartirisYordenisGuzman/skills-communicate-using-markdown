@@ -18,3 +18,9 @@ In this section I'm trying to learn Markdown.
 npm install 
 cd desktop
 ```
+
+## TASK LIST
+
+- [x] first action.
+- [ ] second action.
+- [ ] thrid action.
